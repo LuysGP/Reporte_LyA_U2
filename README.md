@@ -1,2 +1,6 @@
+# Reporte de practicas - U2
+----------------------------------------------------------
+## Practica Infija a Prefija
 
-HI
+
+## Practica Infija a Postfija
